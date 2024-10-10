@@ -6,4 +6,3 @@ seaborn
 nltk
 regex
 scikit-learn
--e .
