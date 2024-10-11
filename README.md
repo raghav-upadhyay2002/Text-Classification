@@ -6,7 +6,6 @@ This project focuses on developing a machine learning model to detect and classi
 
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Model Training](#model-training)
 - [Results](#results)
 - [Acknowledgements](#acknowledgements)
@@ -18,18 +17,17 @@ The dataset used in this project contains approximately 56,745 text samples, eac
 - **Raw Dataset**: 24,783 samples covering hate speech, abusive language, and non-hate speech.
 
 Data preprocessing steps included removing irrelevant columns, adjusting labels for consistency, and merging the two datasets to create a well-rounded dataset for model training.
+## Model Training
 
-## Installation
+The model was developed using a neural network architecture. During training, the model achieved an accuracy of 93.51% on the test data, indicating its effectiveness in identifying hate speech.
+   
+## Results
 
-To run this project, you will need Python installed on your machine along with the following packages:
+The trained model demonstrates that machine learning techniques can automate the identification of hate speech, thereby improving safety on social media platforms.
 
-```bash
-pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
-```
-## Usage
+## Acknowledgements
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/raghav-upadhyay2002/hate-speech-detection.git
-   cd hate-speech-detection
-   ```
+	•	The dataset was sourced from Kaggle.
+	•	Thank you to the developers and researchers who created the datasets and the open-source community for providing valuable tools and libraries.
+
+   
