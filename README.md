@@ -26,8 +26,7 @@ The model was developed using a neural network architecture. During training, th
 The trained model demonstrates that machine learning techniques can automate the identification of hate speech, thereby improving safety on social media platforms.
 
 ## Acknowledgements
-
-	•	The dataset was sourced from Kaggle.
-	•	Thank you to the developers and researchers who created the datasets and the open-source community for providing valuable tools and libraries.
+1. The dataset was sourced from Kaggle.
+2. Thank you to the developers and researchers who created the datasets and the open-source community for providing valuable tools and libraries.
 
    
