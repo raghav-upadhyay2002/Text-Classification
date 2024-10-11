@@ -15,6 +15,11 @@ This project focuses on developing a machine learning model to detect and classi
 The dataset used in this project contains approximately 56,745 text samples, each labeled as either hate speech or non-hate speech. It includes a variety of topics, ensuring a comprehensive set of training examples. The data is split into two parts:
 - **Imbalanced Dataset**: 31,962 samples focused on identifying hate speech.
 - **Raw Dataset**: 24,783 samples covering hate speech, abusive language, and non-hate speech.
+## Installation
+Install the required libraries:
+```bash
+pip install -r requirements.txt
+```
 
 Data preprocessing steps included removing irrelevant columns, adjusting labels for consistency, and merging the two datasets to create a well-rounded dataset for model training.
 ## Model Training
