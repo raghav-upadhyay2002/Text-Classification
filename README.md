@@ -30,6 +30,6 @@ pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hate-speech-detection.git
+   git clone https://github.com/raghav-upadhyay2002/hate-speech-detection.git
    cd hate-speech-detection
    ```
