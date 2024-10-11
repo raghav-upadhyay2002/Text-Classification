@@ -25,3 +25,11 @@ To run this project, you will need Python installed on your machine along with t
 
 ```bash
 pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
+```
+## Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/hate-speech-detection.git
+   cd hate-speech-detection
+   ```
